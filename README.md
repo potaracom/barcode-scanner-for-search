@@ -6,12 +6,12 @@
 # 詳細
 
 以下の URL をご確認ください。  
-https://qiita.com/potara/items/3af6b1296269207290b1
+https://potara.net/plugin/barcode-scanner-for-search/
 
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/barcode-scanner-for-search/releases/download/v3/barcode-scanner-for-search-ver3.plugin.zip  
+https://github.com/potaracom/barcode-scanner-for-search/releases/download/v4/barcode-scanner-for-search-ver4.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +26,9 @@ https://github.com/potaracom/barcode-scanner-for-search/releases/download/v3/bar
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+- 2020/4/29 v4 リリース  
+  軽微な不具合を修正
+
 - 2020/2/25 v3 リリース  
   ルックアップフィールドに対応  
   テーブルのフィールドを選択できないように修正
