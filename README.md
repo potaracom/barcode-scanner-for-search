@@ -11,7 +11,7 @@ https://potara.net/plugin/barcode-scanner-for-search/
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/barcode-scanner-for-search/releases/download/v4/barcode-scanner-for-search-ver4.plugin.zip  
+https://github.com/potaracom/barcode-scanner-for-search/releases/download/v5/barcode-scanner-for-search-ver5.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +26,11 @@ https://github.com/potaracom/barcode-scanner-for-search/releases/download/v4/bar
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2021/2/17 v4 リリース  
+  レコードの更新機能を追加  
+  テーブルのフィールドに対応
+
 - 2020/4/29 v4 リリース  
   軽微な不具合を修正
 
@@ -36,4 +41,4 @@ https://github.com/potaracom/barcode-scanner-for-search/releases/download/v4/bar
 - 2019/12/8 v2 リリース  
   軽微な不具合の修正
 
-- 2019/11/24 v1 リリース  
+- 2019/11/24 v1 リリース
