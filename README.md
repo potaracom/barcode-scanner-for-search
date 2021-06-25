@@ -27,7 +27,10 @@ https://github.com/potaracom/barcode-scanner-for-search/releases/download/v5/bar
 
 # 更新情報
 
-- 2021/2/17 v4 リリース  
+- 2021/6/25 v6 リリース  
+  軽微な不具合の修正
+
+- 2021/2/17 v5 リリース  
   レコードの更新機能を追加  
   テーブルのフィールドに対応
 
